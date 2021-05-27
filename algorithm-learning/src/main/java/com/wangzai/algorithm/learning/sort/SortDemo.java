@@ -1,4 +1,4 @@
-package com.sunjiaqi.algorithm.learning.sort;
+package com.wangzai.algorithm.learning.sort;
 
 public interface SortDemo {
 
